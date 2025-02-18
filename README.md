@@ -40,7 +40,7 @@ Developed a responsive e-commerce platform for "Art Waves," a digital art market
 
 Clone the project
 ```bash
-  git clone ...
+  git clone https://github.com/KrunalSavaj/Digital-Art-Gallery.git
 ```
 
 Go to the project directory
@@ -60,6 +60,3 @@ Start the server
 
 ## Authors
 - [@krunalSavaj]
-
-## [Demo](https://digital-art-e-commerce.vercel.app/)
-
